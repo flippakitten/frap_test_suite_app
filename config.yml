@@ -1,0 +1,3 @@
+app_name: frap_test_suite_app
+rails_app: frap_test_suite_app_server
+flutter_app: frap_test_suite_app_ui
